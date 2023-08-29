@@ -12,3 +12,6 @@ YOU CAN
 
  nowe nowe nowe
  nowe nowe nowe
+
+
+to bedzie dziwny commit na feature branchu
