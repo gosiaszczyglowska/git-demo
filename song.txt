@@ -15,3 +15,8 @@ YOU CAN
 
 
 to bedzie dziwny commit na feature branchu
+
+
+
+
+TO JEST TREŚĆ DRUGIEJ ZWROTKI
