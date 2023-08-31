@@ -15,3 +15,5 @@ YOU CAN
 
 
 to bedzie dziwny commit na feature branchu
+
+TO JEST TRZECIA ZWROTKA PIOSENKI 
